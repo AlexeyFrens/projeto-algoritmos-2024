@@ -1,0 +1,3 @@
+D:/cProjects/aula2/gastoGasolina/cmake-build-debug/CMakeFiles/gastoGasolina.dir
+D:/cProjects/aula2/gastoGasolina/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cProjects/aula2/gastoGasolina/cmake-build-debug/CMakeFiles/rebuild_cache.dir

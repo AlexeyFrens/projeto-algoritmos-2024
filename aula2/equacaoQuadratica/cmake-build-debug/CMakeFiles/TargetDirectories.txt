@@ -1,0 +1,3 @@
+D:/cProjects/aula2/equacaoQuadratica/cmake-build-debug/CMakeFiles/equacaoQuadratica.dir
+D:/cProjects/aula2/equacaoQuadratica/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cProjects/aula2/equacaoQuadratica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
